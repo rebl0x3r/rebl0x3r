@@ -14,7 +14,7 @@
   
  ## Connect with me:
   <p>
-   <a href="https://t.me/mrblackx"><img align="left" alt="codeSTACKr.com" width="22px" src="https://images.vexels.com/media/users/3/137414/isolated/preview/3f7486417ddd88060a1818d44b6f3728-telegram-icon-logo-by-vexels.png" /></a>
+   <a href="https://t.me/mrblackx"><img align="left" alt="telegram.org" width="22px" src="https://images.vexels.com/media/users/3/137414/isolated/preview/3f7486417ddd88060a1818d44b6f3728-telegram-icon-logo-by-vexels.png" /></a>
   </p>
 
 <br />
